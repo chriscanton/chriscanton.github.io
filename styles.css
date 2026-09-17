@@ -82,15 +82,6 @@ nav a {
   padding: 100px 0 90px;
 }
 
-.role {
-  margin: 0 0 10px;
-  color: var(--muted);
-  font-size: 0.9rem;
-  font-weight: 650;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-}
-
 h1 {
   margin: 0;
   font-size: clamp(3.25rem, 8vw, 5.75rem);
